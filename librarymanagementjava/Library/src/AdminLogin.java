@@ -74,7 +74,7 @@ public class AdminLogin extends JFrame {
 				passwordField.setText("");
 			}
 			}
-		});
+		}); // End of the function
 		
 		passwordField = new JPasswordField();
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
